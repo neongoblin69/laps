@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.top-text-1 {
+    color: #fff;
+}
+.top-text-2 {
+    color: #fff;
+}
+.top-text-3 {
+    color: #fff;
+}
+.button-generate {
+}
